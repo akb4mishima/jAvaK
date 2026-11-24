@@ -1,2 +1,0 @@
-# jAvaK
-AK's Java
